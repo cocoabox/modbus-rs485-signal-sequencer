@@ -1,0 +1,20 @@
+#pragma once
+
+#define MAX_CHANNELS 6
+
+#define RELAY_ON LOW
+
+#define RELAY_START_PIN 8
+
+#define MAX485_DE_RE_PIN 2
+#define MAX485_RO_PIN 3
+#define MAX485_DI_PIN 4
+
+#define ALL_HC165_LOAD_PIN 5
+#define ALL_HC165_CLOCK_PIN 6
+#define LAST_HC165_OUTPUT_PIN 7
+
+#define BUZZER_PIN A0
+#define ACS712_PIN A1
+
+#define MEASURE_INTERVAL 300
